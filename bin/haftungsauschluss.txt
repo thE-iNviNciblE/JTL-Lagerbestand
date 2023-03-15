@@ -1,0 +1,36 @@
+1. Lizenz 
+--------- 
+Dieses Produkt wurde vom Autor für ausschließlich für Kommerzielle Verbreitung erstellt und veröffentlicht.
+Dies ist eine Demoversion, welche 15 Tage lang gültig ist, bevor Sie registriert werden muss.  
+Es besteht keinerlei Gewährleistung jeglicher Art für das Produkt.
+
+Für Veröffentlichungen im INTERNET gilt:
+- Es bedarf keiner gesonderten Erlaubnis oder Inkenntnissetzung des Autors für die Veröffentlichung.
+- Es ist verboten auf das Produkt selbst, das auf dem Server des Autors liegt, direkt zu verweisen. Es darf nur auf die Website des Autors, wo nähere Infos zum Programm und den offiziellen Downloadmöglichkeiten vorliegen, verlinkt werden.
+- Es ist gestattet, das Produkt auf einem anderen Server zum Download anzubieten, wenn der Autor darüber in Kenntnis gesetzt wird.
+
+Für Veröffentlichungen im PRINT- bzw. DATENTRÄGER-BEREICH gilt:
+- Bei einer Veröffentlichung des Produkts im Print- bzw. Datenträgerbereich (Zeitschrift, CD-Beilage, Software-Sammlung, etc.) muss der Autor darüber in Kenntnis gesetzt werden. Kontaktdaten befinden sich im Kopfbereich dieses Dokuments.
+
+2. Haftung 
+---------- 
+Der Autor dieses Produkts übernimmt KEINERLEI Haftung für Schäden jeglicher Art, die durch das Produkt, durch die Nutzung des Produkts, durch die Nichtnutzung des Produkts oder durch hier nicht aufgezählte Schadensmöglichkeiten entstehen. 
+In keinem Fall kann der Autor dieses Produktes für Schäden jeglicher Art verantwortlich gemacht werden. 
+Das Produkt wird "so wie es ist" zur Verfügung gestellt. Das Produkt wurde mit großer Sorgfalt geschrieben, jedoch könnte jegliche beschriebene Funktion des Produkts durch Fehler versagen. Hierfür übernimmt der Autor ebenfalls keine Haftung.
+
+3. Gewährleistung: 
+------------------ 
+Eine Gewährleistung für eine fehlerfreie Funktionalität des Produkts wird von dem Autor nicht übernommen. 
+Der Autor übernimmt keine Haftung für die Fehlerfreiheit des Produkts, insbesondere nicht dafür, dass das Produkt den Anforderungen und Zwecken des Erwerbers genügt oder mit anderen von ihm ausgewählten Programmen zusammenarbeitet. 
+
+4. Copyright 
+------------ 
+Das Programm steht unter dem rechtlichen Schutz der Urheber- und Handelsgesetze des Landes, in dem es veröffentlicht, vervielfältigt bzw. genutzt wird. 
+Die Decompilierung, Disassemblierung oder Änderung der Software oder der Dokumentation ist strengstens untersagt. 
+
+
+5. Verbreitung des Produktes 
+---------------------------- 
+Die Software darf nur in der Form weitergegeben werden, in der sie der Autor freigegeben hat. Andernfalls muss der Autor eine ausdrückliche Zustimmtung erteilen und es muss ein Hinweis auf den Ursprungszustand des Produktes gegeben werden. 
+Alle Rechte an diesem Produkt bleiben dem Autor ohne Einschränkungen vorbehalten. 
+Das Produkt darf nicht ohne ausdrückliche Zustimmung des Autors verkauft werden. Genauso wenig ist es erlaubt, das Produkt über Dialersoftware zu verbreiten. 

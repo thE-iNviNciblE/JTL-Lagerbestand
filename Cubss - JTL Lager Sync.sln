@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cubss - JTL Lager Sync", "Cubss - JTL Lager Sync.vbproj", "{39D1FECC-A6CA-41E4-A659-A125C2E05444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39D1FECC-A6CA-41E4-A659-A125C2E05444}.Debug|x86.ActiveCfg = Debug|x86
+		{39D1FECC-A6CA-41E4-A659-A125C2E05444}.Debug|x86.Build.0 = Debug|x86
+		{39D1FECC-A6CA-41E4-A659-A125C2E05444}.Release|x86.ActiveCfg = Release|x86
+		{39D1FECC-A6CA-41E4-A659-A125C2E05444}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E303476-1A1B-474E-A47B-F445AE542A06}
+	EndGlobalSection
+EndGlobal
